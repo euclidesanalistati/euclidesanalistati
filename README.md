@@ -21,11 +21,11 @@
 
 # 🚀 Painel de Estatísticas
 
-![Commits](https://img.shields.io/github/commit-activity/m/euclidesanalistati?color=28a745&label=Commits)  
-![Visualizações](https://komarev.com/ghpvc/?username=euclidesanalistati&label=Visitas&color=blue)  
+![Visualizações](https://komarev.com/ghpvc/?username=euclidesanalistati&label=Visitas&color=blue)
+
 
 ## 📊 Minhas Contribuições
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=euclidesanalistati_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=euclidesanalistati&show_icons=true&theme=tokyonight)
 
 ## 🔗 Conecte-se comigo
 <a href="www.linkedin.com/in/euclides-ferreira-7815a0187"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" heigth="48" width="48"></a>
