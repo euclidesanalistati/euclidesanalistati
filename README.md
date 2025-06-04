@@ -1,36 +1,63 @@
-# 👋 Olá! Bem vindo a minha página
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou trilhando meu caminho para atuar como **DevOps Engineer**, com foco em automação, integração contínua e infraestrutura moderna.
+
+# 👋 Olá! Seja bem-vindo(a) ao meu GitHub!
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia, com foco em construir uma carreira como **DevOps Engineer**.
 
 ---
 
 ## 🚀 Sobre mim
 
-Atualmente estou me aprofundando em ferramentas e práticas essenciais para a carreira em DevOps. Me interesso por tudo que envolve automação, performance e escalabilidade. Estou sempre em busca de novos aprendizados e projetos desafiadores.
+Atualmente, estou aprofundando meus conhecimentos em ferramentas e práticas fundamentais para DevOps.
 
-### 💡 Áreas de interesse:
-- 🛠️ **Git & GitHub**
-- 🐧 **Linux**
-- 🐳 **Docker**
-- ☁️ **Cloud Computing (AWS, Azure, GCP)** – *em breve*
-- 🔁 **CI/CD** – *Integração e Entrega Contínua*
-- 🧰 **IaC (Infraestrutura como Código)** – *Terraform/Ansible* – *em breve*
-- 🐍 **Python** para automações e scripts
-- 🔐 **Segurança em DevOps (DevSecOps)** – *em breve*
+---
+
+## 💡 Principais Tecnologias & Interesses
+
+<p align="center">
+  <!-- Docker -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/docker.svg" alt="Docker" width="40" style="margin-right:15px"/>
+  <!-- Linux -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linux.svg" alt="Linux" width="40" style="margin-right:15px"/>
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/python.svg" alt="Python" width="40" style="margin-right:15px"/>
+  <!-- Terraform -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/terraform.svg" alt="Terraform" width="40" style="margin-right:15px"/>
+  <!-- Ansible -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/ansible.svg" alt="Ansible" width="40" style="margin-right:15px"/>
+  <!-- AWS -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/amazonaws.svg" alt="AWS" width="40" style="margin-right:15px"/>
+  <!-- Azure -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/microsoftazure.svg" alt="Azure" width="40" style="margin-right:15px"/>
+  <!-- GCP -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/googlecloud.svg" alt="GCP" width="40" style="margin-right:15px"/>
+  <!-- GitHub -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg" alt="GitHub" width="40" style="margin-right:15px"/>
+</p>
+
+---
+
+- 🐳 **Docker** &nbsp;&nbsp; - Containers e microserviços  
+- 🐧 **Linux** &nbsp;&nbsp; - Administração de sistemas  
+- 🐍 **Python** &nbsp;&nbsp; - Scripts e automações  
+- ☁️ **Cloud** (AWS, Azure, GCP) &nbsp;&nbsp; - Infraestrutura escalável  
+- 🔁 **CI/CD** &nbsp;&nbsp; - Integração e entrega contínua  
+- 🧰 **IaC** (Terraform, Ansible) &nbsp;&nbsp; - Infraestrutura como Código  
+- 🔐 **DevSecOps** &nbsp;&nbsp; - Segurança integrada ao ciclo DevOps  
 
 ---
 
 ## 🎓 Formação
 
-- 📘 **Graduação**: Análise e Desenvolvimento de Sistemas – *Em andamento*  
-- 🎯 **Objetivo futuro**: Pós-graduação em **DevOps** ou **Engenharia de Software**
+- 📚 **Graduação**: Análise e Desenvolvimento de Sistemas – *Em andamento*
+- 🎯 **Foco futuro**: Pós-graduação em **DevOps** ou **Engenharia de Software**
 
 ---
 
-## 📂 Projetos
+## 🛠️ Projetos
 
-Ainda não tenho projetos públicos disponíveis, mas estou trabalhando em iniciativas pessoais voltadas à automação, infraestrutura e práticas DevOps. Em breve, você poderá acompanhar aqui meus repositórios com soluções reais aplicadas no dia a dia de tecnologia.
+Em breve, estarei compartilhando projetos públicos focados em automação, infraestrutura, pipelines CI/CD e soluções DevOps.
 
 ---
 
-> _"Em constante evolução, com foco, paciência e disciplina."_ — **Ferreira**
+> _"Evoluir é um processo contínuo. Foco, paciência e disciplina me guiam todos os dias."_ — **Ferreira**
