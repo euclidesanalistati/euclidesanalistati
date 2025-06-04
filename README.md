@@ -1,38 +1,36 @@
-# 👋 Olá, Bem vindo a minha página
+# 👋 Olá! Bem vindo a minha página
 
-🎯 Atualmente estou construindo minha carreira como **Analista de Dados**, cursando **Análise e Desenvolvimento de Sistemas (ADS)** e com planos futuros para atuar como **DevOps**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou trilhando meu caminho para atuar como **DevOps Engineer**, com foco em automação, integração contínua e infraestrutura moderna.
 
 ---
 
 ## 🚀 Sobre mim
 
-💻 Estou estudando tecnologias essenciais para análise de dados e desenvolvimento moderno, com foco em:
+Atualmente estou me aprofundando em ferramentas e práticas essenciais para a carreira em DevOps. Me interesso por tudo que envolve automação, performance e escalabilidade. Estou sempre em busca de novos aprendizados e projetos desafiadores.
 
-- 📊 **Excel**
-- 🧠 **SQL**
-- 📈 **Power BI**
-- 🐍 **Python**
+### 💡 Áreas de interesse:
 - 🛠️ **Git & GitHub**
-- 🐧 **Linux** _(em breve)_
-- 🐳 **Docker** _(em breve)_
+- 🐧 **Linux**
+- 🐳 **Docker**
+- ☁️ **Cloud Computing (AWS, Azure, GCP)** – *em breve*
+- 🔁 **CI/CD** – *Integração e Entrega Contínua*
+- 🧰 **IaC (Infraestrutura como Código)** – *Terraform/Ansible* – *em breve*
+- 🐍 **Python** para automações e scripts
+- 🔐 **Segurança em DevOps (DevSecOps)** – *em breve*
 
 ---
 
-## 📚 Formação em andamento
+## 🎓 Formação
 
-- 🎓 Graduação: **Análise e Desenvolvimento de Sistemas** (ADS)
-- 🎯 Especialização: **Análise de Dados**
-- 🔜 Futuro: **Pós-graduação em DevOps ou Engenharia de Dados**
+- 📘 **Graduação**: Análise e Desenvolvimento de Sistemas – *Em andamento*  
+- 🎯 **Objetivo futuro**: Pós-graduação em **DevOps** ou **Engenharia de Software**
 
 ---
 
 ## 📂 Projetos
 
-Ainda não tenho projetos publicados, mas estou aprendendo todos os dias para entregar soluções úteis que gerem valor real. Me acompanhe por aqui para ver minha evolução! 🚀
+Ainda não tenho projetos públicos disponíveis, mas estou trabalhando em iniciativas pessoais voltadas à automação, infraestrutura e práticas DevOps. Em breve, você poderá acompanhar aqui meus repositórios com soluções reais aplicadas no dia a dia de tecnologia.
 
 ---
 
-
-
-> ✨ _"Em constante evolução, com foco, paciência e disciplina."_ — Ferreira
-
+> _"Em constante evolução, com foco, paciência e disciplina."_ — **Ferreira**
