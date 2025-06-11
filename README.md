@@ -2,7 +2,7 @@
 
 # 👋 Olá! Seja bem-vindo(a) ao meu GitHub!
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia, com foco em construir uma carreira como **DevOps Engineer**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia, com foco em construir uma carreira como **DevOps Engineer** e **Analista de Dados**.
 
 ---
 
@@ -50,7 +50,7 @@ Atualmente, estou aprofundando meus conhecimentos em ferramentas e práticas fun
 ## 🎓 Formação
 
 - 📚 **Graduação**: Análise e Desenvolvimento de Sistemas – *Em andamento*
-- 🎯 **Foco futuro**: Pós-graduação em **DevOps** ou **Engenharia de Software**
+- 🎯 **Foco futuro**: Pós-graduação em **DevOps** e **Análise de Dados**
 
 ---
 
