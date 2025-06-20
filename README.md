@@ -2,7 +2,7 @@
 
 # 👋 Olá! Seja bem-vindo(a) ao meu GitHub!
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia, com foco em construir uma carreira como **DevOps Engineer** e **Analista de Dados**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** 
 
 ---
 
