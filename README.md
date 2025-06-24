@@ -63,9 +63,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/fwbzI2kV3XCeVD7r0e/giphy.gif" width="150" />
-  <br>
-  <strong>“Explorando o desconhecido, um commit por vez.”</strong>
-</p>
