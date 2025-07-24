@@ -5,7 +5,6 @@
   
   <p>
     🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong><br>
-    🛠️ Focado em <strong>DevOps</strong> e automações com <strong>Python</strong><br>
     🌌 Explorando o universo da tecnologia
   </p>
 </div>
