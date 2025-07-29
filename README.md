@@ -10,7 +10,7 @@
 </div>
 
 
-## ✅ **Tecnologias que já domino**
+## ✅ **Em Progresso**
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="50" />
